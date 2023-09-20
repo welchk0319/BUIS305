@@ -1,0 +1,6 @@
+print("Hello World")
+print('Hello World')
+print(2+3)
+print("2+3")
+print(3*4)
+print(3.12*4.5)
