@@ -1,0 +1,25 @@
+import math
+
+number1=input('enter number 1')
+number2=input('enter number 2')
+number3=input('enter number 3')
+print(number1,number2,number3)
+sum=int(number1)+int(number2)+int(number3)
+print(sum)
+difference=int(number1)-int(number2)-int(number3)
+multiplication=int(number1)*int(number2)*int(number3)
+division=int(number1)/int(number2)/int(number3)
+print(difference,multiplication,division)
+print(math.pow(9,3))
+print(math.fabs(-11))
+print(math.floor(3.11))
+print(math.isclose(27.85,27.02))
+print(math.sqrt(9))
+print(math.isqrt(100))
+print(math.ceil(12.7))
+print(math.copysign(4,-1))
+print(math.fmod(20,3))
+print(math.isinf(110))
+print(math.isfinite(1974))
+
+
